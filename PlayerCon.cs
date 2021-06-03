@@ -6,7 +6,7 @@
  *
  * By NVcoder
  * My Github: https://github.com/NVcoder24
- * Version: 0.9
+ * Version: 1.0
 */
 
 // Libraries
